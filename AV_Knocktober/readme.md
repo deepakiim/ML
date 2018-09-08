@@ -5,3 +5,6 @@ We ([Rohan Rao](https://github.com/rohanrao91) and myself) finished first in thi
 The code file - vopani_final.R is written by Rohan Rao and you can see more about his comments [here](https://github.com/rohanrao91/AnalyticsVidhya_Knocktober)
 
 The code file - srk_final.py is written by me. Finally we blended both our models which ended up at first position.
+
+Solution
+https://www.analyticsvidhya.com/blog/2016/10/winners-approach-codes-from-knocktober-xgboost-dominates/
